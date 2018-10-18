@@ -3,4 +3,7 @@
   <action id="IncrementWindowHeight" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt k" second-keystroke="v" />
+  </action>
 </keymap>
