@@ -1,6 +1,15 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="DecrementWindowHeight" />
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
   <action id="IncrementWindowHeight" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
@@ -13,7 +22,11 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="ResetColumnsWidth" />
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt k" second-keystroke="v" />
+  </action>
 </keymap>
