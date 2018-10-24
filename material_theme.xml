@@ -1,10 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.3.3" />
+    <option name="version" value="2.9.5.2" />
     <option name="selectedTheme" value="ONE_LIGHT" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="userId" value="39d2079c:1667d29b5ab:-8000" />
+    <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
   </component>
 </application>
