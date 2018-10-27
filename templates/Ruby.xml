@@ -1,0 +1,7 @@
+<templateSet group="Ruby">
+  <template name="pry" value="binding.pry" description="debugger" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
